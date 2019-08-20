@@ -1,0 +1,13 @@
+{
+	"specVersion": "1.0",
+	"fileName": "motor.txt",
+	"packageType": "softwarePackage",
+	"version": "V1.0",
+	"deviceType": "MultiSensor",
+	"manufacturerName": "ofo",
+	"model": "v02",
+	"protocolType":"CoAP",
+	"description":"Test software package",
+	"versionCheckCode":"12",
+	"date":"2018-08-20",
+}
